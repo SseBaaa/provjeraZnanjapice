@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\bin\Debug\Sebastian_Krnjus_PPZ2.exe.config
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\bin\Debug\Sebastian_Krnjus_PPZ2.exe
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\bin\Debug\Sebastian_Krnjus_PPZ2.pdb
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.Form1.resources
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.exe
+C:\Users\ucenik\source\repos\Sebastian_Krnjus_PPZ2\Sebastian_Krnjus_PPZ2\obj\Debug\Sebastian_Krnjus_PPZ2.pdb
